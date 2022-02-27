@@ -1,0 +1,23 @@
+{
+  "name": "eslint-config-muldoser",
+  "version": "1.0.0",
+  "description": "Eslint configuration, extending upon the airbnb package.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Muldoser/eslint-config-muldoser.git"
+  },
+  "keywords": [
+    "eslint",
+    "config"
+  ],
+  "author": "Michiel Mulder",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Muldoser/eslint-config-muldoser/issues"
+  },
+  "homepage": "https://github.com/Muldoser/eslint-config-muldoser#readme"
+}
