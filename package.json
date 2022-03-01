@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-muldoser",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Eslint configuration, extending upon the airbnb package.",
   "main": "index.js",
   "scripts": {
